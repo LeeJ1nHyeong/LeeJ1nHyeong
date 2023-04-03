@@ -1,4 +1,5 @@
 # Per Aspera Ad Astra
+### 조만간 리뉴얼 함(언제할지는 모름)
 
 <!--
 **LeeJ1nHyeong/LeeJ1nHyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
