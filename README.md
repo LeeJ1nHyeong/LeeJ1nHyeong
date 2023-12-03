@@ -1,5 +1,5 @@
 # Per Aspera Ad Astra
-### 조만간 리뉴얼 함(4월 중 마무리 목표)
+### 조만간 리뉴얼 함(12월 중 마무리 목표)
 
 <!--
 **LeeJ1nHyeong/LeeJ1nHyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
