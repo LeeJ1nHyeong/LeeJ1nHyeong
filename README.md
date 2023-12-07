@@ -1,6 +1,8 @@
 # Per Aspera Ad Astra
 ### 조만간 리뉴얼 함(12월 중 마무리 목표)
 
+개발자 이진형입니다.
+
 <!--
 **LeeJ1nHyeong/LeeJ1nHyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
