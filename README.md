@@ -3,13 +3,13 @@
 
 개발자 이진형입니다.
 
-#### Skills
+#### 📚 Skills
 
-#### Experience
+#### 💼 Experience
 
-#### Awards
+#### 🏆 Awards
 
-#### Projects
+#### 📁 Projects
 
 <!--
 **LeeJ1nHyeong/LeeJ1nHyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
