@@ -7,7 +7,9 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <!--   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp -->
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat"/></a>&nbsp
+  
   <br>
   <img src="https://img.shields.io/badge/React-2496ED?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-D24939?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
