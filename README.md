@@ -18,8 +18,15 @@
 </p>
 
 #### 💼 Experience
+<p>
+  <li>2023.01 ~ &nbsp SSAFY 9기</li>
+</p>
 
 #### 🏆 Awards
+<p>
+  <li>2023.05 &nbsp SSAFY 1학기 관통프로젝트 우수상(금융상품 비교 애플리케이션 MMoP)</li>
+  <li>2023.08 &nbsp SSAFY 2학기 공통프로젝트 우수상(가족간의 소통을 위한 스마트미러 MirrorMe)</li>
+</p>
 
 #### 📁 Projects
 
