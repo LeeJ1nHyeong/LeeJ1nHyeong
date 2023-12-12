@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/React-2496ED?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-D24939?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue-11B48A?style=flat-square&logo=Vue&logoColor=white"/></a>&nbsp
+  <img src="https://camo.githubusercontent.com/7d40774762a6559831664bbeb1b3d4e6b55ca155467da23c89cf8207cb063d64/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5675652e6a732d3446433038443f7374796c653d666c61742d737175617265266c6f676f3d5675652e6a73266c6f676f436f6c6f723d7768697465"/></a>&nbsp
 </p>
 
 #### 💼 Experience
