@@ -19,7 +19,7 @@
 
 #### 💼 Experience
 <p>
-  <li>2023.01 ~ &nbsp SSAFY 9기</li>
+  <li>2023.01 ~ 2023.12 &nbsp SSAFY 9기</li>
 </p>
 
 #### 🏆 Awards
