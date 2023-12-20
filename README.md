@@ -47,6 +47,7 @@
     - 가상오피스 ‘Soma’에서 동료들과 함께 즐길 수 있는 **캐주얼 리듬 게임**
  
 #### ETC
+- 
 
 <!--
 **LeeJ1nHyeong/LeeJ1nHyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
