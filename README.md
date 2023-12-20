@@ -45,6 +45,8 @@
 - 2023.10.10 ~ 2023.11.17     **SoRhy(So**ma **Rhy**thm ****Game**)**
     - **직방**과의 **기업연계** 프로젝트
     - 가상오피스 ‘Soma’에서 동료들과 함께 즐길 수 있는 **캐주얼 리듬 게임**
+ 
+#### ETC
 
 <!--
 **LeeJ1nHyeong/LeeJ1nHyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
