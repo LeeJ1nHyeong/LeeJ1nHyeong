@@ -1,5 +1,5 @@
 # Per Aspera Ad Astra
-### 조만간 리뉴얼 함(12월 중 마무리 목표)
+### 수정중입니다
 
 개발자 이진형입니다.
 
@@ -47,7 +47,7 @@
     - 가상오피스 ‘Soma’에서 동료들과 함께 즐길 수 있는 **캐주얼 리듬 게임**
  
 #### ETC
-- 
+- ...
 
 <!--
 **LeeJ1nHyeong/LeeJ1nHyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
