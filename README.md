@@ -1,4 +1,8 @@
 # Per Aspera Ad Astra
+### Algorithm (Baekjoon)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsgud4084)](https://solved.ac/wlsgud4084/)
+![Solved.ac 프로필](http://mazandi.herokuapp.com/api?handle=wlsgud4084&theme=dark)
+<!--
 ### 수정중입니다
 
 개발자 이진형입니다.
@@ -6,7 +10,7 @@
 #### 📚 Tech Stacks
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<!--   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp -->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-C%23-512BD4?logo=Csharp&style=flat-square"/></a>&nbsp
   
@@ -48,6 +52,7 @@
  
 #### ETC
 - ...
+-->
 
 <!--
 **LeeJ1nHyeong/LeeJ1nHyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
