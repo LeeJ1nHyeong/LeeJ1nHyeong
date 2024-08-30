@@ -13,13 +13,19 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">&nbsp
 </p>
 
+<br>
+
 ## 💼 Experience
 **2023.01 ~ 2023.12**  삼성 청년 소프트웨어 아카데미(**SSAFY**) 9기
+
+<br>
 
 ## 🏆 Awards
 **2023.05**  SSAFY 1학기 관통프로젝트 우수상(금융상품 비교 애플리케이션 MMoP)
 
 **2023.08**  SSAFY 2학기 공통프로젝트 우수상(가족간의 소통을 위한 스마트미러 MirrorMe)
+
+<br>
 
 ## 📁 Projects
   [MirrorMe](https://github.com/LeeJ1nHyeong/MirrorMe) - **가족간의 소통**을 위한 **스마트미러**
@@ -27,6 +33,8 @@
   [MOA](https://github.com/LeeJ1nHyeong/MOA) - **빅데이터 분산** 기술을 활용한 **외국인 유학생 한국 온보딩 서비스**
   
   [SoRhy](https://github.com/LeeJ1nHyeong/SoRhy) - 가상오피스 ‘Soma’에서 동료들과 함께 즐길 수 있는 **캐주얼 리듬 게임**
+
+<br>
 
 ## Algorithm (Baekjoon)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsgud4084)](https://solved.ac/wlsgud4084/)
