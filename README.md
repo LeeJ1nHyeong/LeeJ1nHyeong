@@ -1,4 +1,4 @@
-### 안녕하세요! 이진형입니다!
+# 안녕하세요! 이진형입니다!
 
 ## 📚 Tech Stacks
 ### Languages & Frameworks
